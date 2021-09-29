@@ -56,7 +56,7 @@ Once the data is loaded into hive, use the spark-submit command to run the pytho
 
 # Contributors
 
-* [Redon N roy]
+* [Redon N roy](https://github.com/redon-n-roy)
 * [Meenal Shree](https://github.com/meenal-shree)
 * [Nirosha M](https://github.com/Niroshamurugan)
 
